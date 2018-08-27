@@ -27,3 +27,13 @@ source venv/bin/activate
 python --version 
 [Console]: Python 3.6.6
 ```
+
+## Things to do in the future
+
+Project doesn't look like it can be completed using plaidML without using powershell. WLS won't recognise graphics card currently.
+
+Switched to MINGW64, command key difference in installing on Windows is this line!!!
+
+source venv/Scripts/activate
+
+Will have to use powershell for this, which means venv is activated in a different way.
