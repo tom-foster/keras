@@ -8,7 +8,7 @@ Mainly example datasets.
 
 ## Don't forget!
 
-Windows linux subsystem
+Windows linux subsystem (this project doesn't work on linux subsystem)
 
 ```bash
 sudo add-apt-repository ppa:deadsnakes/ppa
@@ -28,12 +28,11 @@ python --version
 [Console]: Python 3.6.6
 ```
 
-## Things to do in the future
+## Doesn't work on Windows linux subsystem
 
 Project doesn't look like it can be completed using plaidML without using powershell. WLS won't recognise graphics card currently.
 
-Switched to MINGW64, command key difference in installing on Windows is this line!!!
+Switched to MINGW64, command key difference in installing on Windows is this line!!! Because MINGW64 is superficial the files created are windows files so activation is Scripts in venv and not bin.
 
 source venv/Scripts/activate
 
-Will have to use powershell for this, which means venv is activated in a different way.
