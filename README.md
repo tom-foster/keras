@@ -36,3 +36,6 @@ Switched to MINGW64, command key difference in installing on Windows is this lin
 
 source venv/Scripts/activate
 
+## Hardware
+
+- R280x (2048 cores)
