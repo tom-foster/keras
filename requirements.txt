@@ -15,7 +15,7 @@ plaidbench==0.3.2
 plaidml==0.3.4
 plaidml-keras==0.3.4
 protobuf==3.6.1
-PyYAML==3.13
+PyYAML==5.4
 requests==2.18.4
 scipy==1.1.0
 six==1.11.0
