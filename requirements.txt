@@ -10,7 +10,7 @@ h5py==2.8.0
 idna==2.6
 Keras==2.0.8
 Markdown==2.6.11
-numpy==1.14.5
+numpy==1.22.0
 plaidbench==0.3.2
 plaidml==0.3.4
 plaidml-keras==0.3.4
